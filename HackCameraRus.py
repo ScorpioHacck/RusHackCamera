@@ -49,16 +49,13 @@ else:
     delet = 'clear'
     dr = '/'
 
-printtext('H..')
-printtext('Ha..')
-printtext('Hac..')
-printtext('Hack..')
-printtext('Hacki..')
-printtext('Hackin..')
-printtext('Hacking..')
-printtext('HackingC..')
-printtext('HackingCa..')
-printtext('HackingCam')
+printtext('S..')
+printtext('Sc..')
+printtext('Sco..')
+printtext('Scor..')
+printtext('Scorp..')
+printtext('Scorpi..')
+printtext('Scorpio..')
 
 menu_ev = """1: Взлом камер Российской Федерациии!
 2: Об утилите!"""
@@ -105,4 +102,4 @@ def menu():
             break
 
 
-menu()  
+menu()
